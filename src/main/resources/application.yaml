@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: carts-service
+
+  data:
+    mongodb:
+      host: ds245210.mlab.com
+      port: 45210
+      database: nawaz
+      username: nawaz
+      password: nawaz123

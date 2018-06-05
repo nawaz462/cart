@@ -1,0 +1,7 @@
+---
+applications:
+- name: carts-service
+  path: target/cart-0.0.1-SNAPSHOT.jar
+  domain: cfapps.io
+  memory: 1024m
+  instances: 1
